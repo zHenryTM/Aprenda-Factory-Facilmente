@@ -36,7 +36,7 @@ Até agora, temos a seguinte estrutura:‎
 
 As classes que implementam IMessage mandarão mensagens de acordo com seu tipo: SMS, Email ou Notificação.
 
-Agora, vamos criar a classe que será responsável por instanciar as classes SMSMessage, EmailMessage, and PushNotificationMessage.
+Agora, vamos criar a classe que será responsável por instanciar as classes SMSMessage, EmailMessage, e PushNotificationMessage.
 
 Chamaremos essa classe de **MessageFactory**.
 ‎ 
